@@ -253,7 +253,7 @@ git push origin feature/your-feature
 - 关注我的内容账号
 
 <p align="center">
-  <img src="assets/gongzhonghao.jpg" alt="WeChat Support" width="200" />
+  <img src="assets/gonghzhonghao.jpg" alt="vx公众号" width="200" />
 </p>
 
 ---
