@@ -238,18 +238,23 @@ git push origin feature/your-feature
 
 你可以自由使用、修改、分发，用于教育或非商业目的。
 
-## 🙏 致谢
 
-- 3D 模型由 [Tripo 3D](https://www.tripo3d.ai/) AI 生成
-- 项目灵感来源于中小学科学课程标准
-- 感谢 React Three Fiber 社区提供的优秀文档
-
-## 📮 联系我们
+## 📮 联系我
 
 如有问题或建议，欢迎通过以下方式联系：
 
-- 📧 Email: your.email@example.com
-- 💬 GitHub Issues: [提交问题](https://github.com/may-ai-007/volcanoview-3d/issues)
+- 📧 Email: 494693207@qq.com
+
+## 💪🏻 支持项目
+
+如果这个项目对你有启发，欢迎：
+- Star 本仓库
+- 分享给更多朋友
+- 关注我的内容账号
+
+<p align="center">
+  <img src="assets/gongzhonghao.jpg" alt="WeChat Support" width="200" />
+</p>
 
 ---
 
